@@ -56,7 +56,7 @@ and performance optimization practices followed during development.
 ---
 
 
-### ℹ️ 4. Quantity ToolTip  
+### ℹ️ 5. Quantity ToolTip  
 
 ![QUANTITY_TOOLTIP Preview](/QUANTITY_TOOLTIP.png)
 
@@ -69,7 +69,7 @@ The **Quantity Tooltip** Highlights
 
 ---
 
-### ℹ️ 4. Sales ToolTip  
+### ℹ️ 6. Sales ToolTip  
 
 ![SALES_TOOLTIP Preview](/SALES_TOOLTIP.png)
 

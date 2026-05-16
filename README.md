@@ -56,6 +56,31 @@ and performance optimization practices followed during development.
 ---
 
 
+### ℹ️ 4. Quantity ToolTip  
+
+![QUANTITY_TOOLTIP Preview](/QUANTITY_TOOLTIP.png)
+
+The **Quantity Tooltip** Highlights
+- Customer quantity trend by quarter
+- Top Customer purchase trend
+- Quarterly quantity purchased
+- Customer purchase over time
+- Quantity by quarter
+
+---
+
+### ℹ️ 4. Sales ToolTip  
+
+![SALES_TOOLTIP Preview](/SALES_TOOLTIP.png)
+
+The **Sales Tooltip** Highlights
+- Customer purchase quantity by quarter
+- Quarterly quantity trend
+- Purchase volume by quarter
+
+---
+
+
 ## Tools Used  
 - **Excel** – Primary data source and initial exploration  
 - **Power BI Desktop** – Data modeling, DAX, visualization, and report design  
